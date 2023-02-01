@@ -1,0 +1,88 @@
+S:\ГРУППЫ\!!ИС\6ИС\Группа 6ИС\Мотолянец Александр\МДК 01.01\FTP\FTP\FTP\bin\Debug\FTP.exe.config
+S:\ГРУППЫ\!!ИС\6ИС\Группа 6ИС\Мотолянец Александр\МДК 01.01\FTP\FTP\FTP\bin\Debug\FTP.exe
+S:\ГРУППЫ\!!ИС\6ИС\Группа 6ИС\Мотолянец Александр\МДК 01.01\FTP\FTP\FTP\bin\Debug\FTP.pdb
+S:\ГРУППЫ\!!ИС\6ИС\Группа 6ИС\Мотолянец Александр\МДК 01.01\FTP\FTP\FTP\bin\Debug\FTP.xml
+S:\ГРУППЫ\!!ИС\6ИС\Группа 6ИС\Мотолянец Александр\МДК 01.01\FTP\FTP\FTP\obj\Debug\FTP.vbprojResolveAssemblyReference.cache
+S:\ГРУППЫ\!!ИС\6ИС\Группа 6ИС\Мотолянец Александр\МДК 01.01\FTP\FTP\FTP\obj\Debug\FTP.Form1.resources
+S:\ГРУППЫ\!!ИС\6ИС\Группа 6ИС\Мотолянец Александр\МДК 01.01\FTP\FTP\FTP\obj\Debug\FTP.Resources.resources
+S:\ГРУППЫ\!!ИС\6ИС\Группа 6ИС\Мотолянец Александр\МДК 01.01\FTP\FTP\FTP\obj\Debug\FTP.vbproj.GenerateResource.Cache
+S:\ГРУППЫ\!!ИС\6ИС\Группа 6ИС\Мотолянец Александр\МДК 01.01\FTP\FTP\FTP\obj\Debug\FTP.exe
+S:\ГРУППЫ\!!ИС\6ИС\Группа 6ИС\Мотолянец Александр\МДК 01.01\FTP\FTP\FTP\obj\Debug\FTP.xml
+S:\ГРУППЫ\!!ИС\6ИС\Группа 6ИС\Мотолянец Александр\МДК 01.01\FTP\FTP\FTP\obj\Debug\FTP.pdb
+E:\FTP\FTP\bin\Debug\FTP.exe.config
+E:\FTP\FTP\obj\Debug\FTP.exe
+E:\FTP\FTP\obj\Debug\FTP.xml
+E:\FTP\FTP\obj\Debug\FTP.pdb
+E:\FTP\FTP\bin\Debug\FTP.exe
+E:\FTP\FTP\bin\Debug\FTP.pdb
+E:\FTP\FTP\bin\Debug\FTP.xml
+E:\FTP\FTP\obj\Debug\FTP.vbprojResolveAssemblyReference.cache
+E:\FTP\FTP\obj\Debug\FTP.Form1.resources
+E:\FTP\FTP\obj\Debug\FTP.Resources.resources
+E:\FTP\FTP\obj\Debug\FTP.vbproj.GenerateResource.Cache
+D:\FTP\FTP\bin\Debug\FTP.exe.config
+D:\FTP\FTP\obj\Debug\FTP.exe
+D:\FTP\FTP\obj\Debug\FTP.xml
+D:\FTP\FTP\obj\Debug\FTP.pdb
+H:\FTP\FTP\bin\Debug\FTP.exe.config
+H:\FTP\FTP\obj\Debug\FTP.exe
+H:\FTP\FTP\obj\Debug\FTP.xml
+H:\FTP\FTP\obj\Debug\FTP.pdb
+H:\FTP\FTP\bin\Debug\FTP.exe
+H:\FTP\FTP\bin\Debug\FTP.pdb
+H:\FTP\FTP\bin\Debug\FTP.xml
+H:\FTP\FTP\obj\Debug\FTP.vbprojResolveAssemblyReference.cache
+H:\FTP\FTP\obj\Debug\FTP.Form1.resources
+H:\FTP\FTP\obj\Debug\FTP.Resources.resources
+H:\FTP\FTP\obj\Debug\FTP.vbproj.GenerateResource.Cache
+E:\Projects\FTP\FTP\bin\Debug\FTP.exe.config
+E:\Projects\FTP\FTP\obj\Debug\FTP.exe
+E:\Projects\FTP\FTP\obj\Debug\FTP.xml
+E:\Projects\FTP\FTP\obj\Debug\FTP.pdb
+E:\Projects\FTP\FTP\bin\Debug\FTP.exe
+E:\Projects\FTP\FTP\bin\Debug\FTP.pdb
+E:\Projects\FTP\FTP\bin\Debug\FTP.xml
+E:\Projects\FTP\FTP\obj\Debug\FTP.vbprojResolveAssemblyReference.cache
+E:\Projects\FTP\FTP\obj\Debug\FTP.Form1.resources
+E:\Projects\FTP\FTP\obj\Debug\FTP.Resources.resources
+E:\Projects\FTP\FTP\obj\Debug\FTP.vbproj.GenerateResource.Cache
+E:\FTP\FTP\obj\Debug\FTP.Form2.resources
+E:\New FTP\FTP\bin\Debug\FTP.exe.config
+E:\New FTP\FTP\obj\Debug\FTP.exe
+E:\New FTP\FTP\obj\Debug\FTP.xml
+E:\New FTP\FTP\obj\Debug\FTP.pdb
+E:\New FTP\FTP\bin\Debug\FTP.exe
+E:\New FTP\FTP\bin\Debug\FTP.pdb
+E:\New FTP\FTP\bin\Debug\FTP.xml
+E:\New FTP\FTP\obj\Debug\FTP.vbprojResolveAssemblyReference.cache
+E:\New FTP\FTP\obj\Debug\FTP.Form1.resources
+E:\New FTP\FTP\obj\Debug\FTP.Resources.resources
+E:\New FTP\FTP\obj\Debug\FTP.vbproj.GenerateResource.Cache
+H:\New FTP\FTP\bin\Debug\FTP.exe.config
+H:\New FTP\FTP\obj\Debug\FTP.exe
+H:\New FTP\FTP\obj\Debug\FTP.xml
+H:\New FTP\FTP\obj\Debug\FTP.pdb
+E:\Projects .NET\New FTP\FTP\bin\Debug\FTP.exe.config
+E:\Projects .NET\New FTP\FTP\obj\Debug\FTP.exe
+E:\Projects .NET\New FTP\FTP\obj\Debug\FTP.xml
+E:\Projects .NET\New FTP\FTP\obj\Debug\FTP.pdb
+E:\Projects .NET\New FTP\FTP\bin\Debug\FTP.exe
+E:\Projects .NET\New FTP\FTP\bin\Debug\FTP.pdb
+E:\Projects .NET\New FTP\FTP\bin\Debug\FTP.xml
+E:\Projects .NET\New FTP\FTP\obj\Debug\FTP.vbprojResolveAssemblyReference.cache
+E:\Projects .NET\New FTP\FTP\obj\Debug\FTP.Form1.resources
+E:\Projects .NET\New FTP\FTP\obj\Debug\FTP.Resources.resources
+E:\Projects .NET\New FTP\FTP\obj\Debug\FTP.vbproj.GenerateResource.Cache
+E:\Projects .NET\New FTP\FTP\obj\Debug\FTP.vbproj.ResolveComReference.cache
+E:\#Developed\Projects .NET\New FTP\FTP\bin\Debug\FTP.exe.config
+E:\#Developed\Projects .NET\New FTP\FTP\obj\Debug\FTP.vbproj.ResolveComReference.cache
+E:\#Developed\Projects .NET\New FTP\FTP\obj\Debug\FTP.exe
+E:\#Developed\Projects .NET\New FTP\FTP\obj\Debug\FTP.xml
+E:\#Developed\Projects .NET\New FTP\FTP\obj\Debug\FTP.pdb
+E:\#Developed\Projects .NET\New FTP\FTP\bin\Debug\FTP.exe
+E:\#Developed\Projects .NET\New FTP\FTP\bin\Debug\FTP.pdb
+E:\#Developed\Projects .NET\New FTP\FTP\bin\Debug\FTP.xml
+E:\#Developed\Projects .NET\New FTP\FTP\obj\Debug\FTP.vbprojResolveAssemblyReference.cache
+E:\#Developed\Projects .NET\New FTP\FTP\obj\Debug\FTP.Form1.resources
+E:\#Developed\Projects .NET\New FTP\FTP\obj\Debug\FTP.Resources.resources
+E:\#Developed\Projects .NET\New FTP\FTP\obj\Debug\FTP.vbproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+Jan/28/2025 14:50:01 pptp,ppp,info,account matusevichute-yb logged in, 192.168.4.28
+Jan/28/2021 14:54:34 pptp,ppp,info,account matusevichute-yb logged out, 274 2452535 47416602 35899 44605
+Jan/28/2021 16:19:43 pptp,ppp,info,account Safiulina logged out, 6349 10350913 28741622 131790 104636
+Jan/28/2021 16:21:13 pptp,ppp,info,account semenova-io logged out, 20664 128882700 779243821 642581 1394775
+Jan/28/2021 16:43:42 pptp,ppp,info,account Safiulina logged in, 192.168.4.1
+Jan/28/2021 16:47:43 pptp,ppp,info,account mogulenko-lv logged out, 17841 21617531 106456636 234401 250904
+Jan/28/2021 17:10:32 pptp,ppp,info,account mogulenko-lv logged in, 192.168.4.23
+Jan/28/2021 17:23:32 pptp,ppp,info,account medvedeva-eg logged out, 10640 8668713 56275259 44497 59786
+Jan/28/2021 17:32:33 pptp,ppp,info,account semenova-io logged in, 192.168.4.70
+Jan/28/2021 17:38:06 pptp,ppp,info,account popova-ela logged out, 32818 34808411 211169592 154184 206662
+Jan/28/2030 17:43:31 pptp,ppp,info,account mogulenko-lv logged out, 1978 1367882 6926981 11247 13496
+Jan/28/2025 14:50:01 pptp,ppp,info,account matusevichute-yb logged in, 192.168.4.28
